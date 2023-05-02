@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# ts_nuxt3_survey
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
